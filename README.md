@@ -15,5 +15,6 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Screenshots
+
 ![Alt text](screenshots/image.png)
-![Alt text](screenshots/image-1.png)# carousel-react
+![Alt text](screenshots/image-1.png)
